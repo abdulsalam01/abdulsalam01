@@ -113,8 +113,6 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 
 ## 🧩 Portrait Compiled from Numbers & Symbols
 
-> No embedded personal photo. The portrait below is generated from the original pose using only numeric and symbolic characters.
-
 ```text
 ╔════════════════════════════════════════════════════════════════╗
 ║                  ABDUL_SALAM::PORTRAIT.EXE                    ║
@@ -334,8 +332,8 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 
 | Role | Company | Highlights |
 |---|---|---|
-| Senior Research & Development | **GankNow, Singapore** | Lead a 10-service Go/Node microservice stack, maintain 99.9% uptime, optimize traces/queries/cache, cut P99 latency 40%, reduce cloud cost 25% |
-| Lead Engineer | **Amori, USA** | Mentor backend team, scale services/databases, run infrastructure reviews, integrate open-source LLMs into product features |
+| Senior Research & Development | **Singapore** | Lead a 10-service Go/Node microservice stack, maintain 99.9% uptime, optimize traces/queries/cache, cut P99 latency 40%, reduce cloud cost 25% |
+| Lead Engineer | **Europe - USA** | Mentor backend team, scale services/databases, run infrastructure reviews, integrate open-source LLMs into product features |
 | Tech Mentor | **Eduwork, Indonesia** | Coach 120+ MERN learners, 82% placed into junior full-stack roles, teach GraphQL, Docker, microservices, RPC |
 | Senior Product Engineer | **Pixel8Labs, Singapore** | Built Golang microservices, GraphQL APIs, NFT launch infrastructure, royalty-enabled Solidity contracts, crypto payment flows |
 
