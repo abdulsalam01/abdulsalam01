@@ -81,9 +81,9 @@
   <img src="https://img.shields.io/badge/English-Fluent-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Indonesian-Native-059669?style=flat-square" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Currently-Senior%20R%26D%20%40%20GankNow-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-Senior%20R%26D%20%40%20CheckProof-0F766E?style=flat-square" />
   <br/>
-  <img src="https://img.shields.io/badge/Also-Lead%20Engineer%20%40%20Amori-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Also-Lead%20Engineer-7C3AED?style=flat-square" />
   <br/>
   <img src="https://img.shields.io/badge/Mentor-Eduwork-F59E0B?style=flat-square" />
 </td>
