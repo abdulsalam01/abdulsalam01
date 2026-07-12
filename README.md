@@ -1,108 +1,317 @@
-<h3 align="center">
-  Welcome to Abdul Salam's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!--
+GitHub Profile README for Abdul Salam
+Replace:
+- abdulsalam01
+- abdulsalam-01
+- abdulsalam121196@gmail.com
+-->
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-</p>
+<div align="center">
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+# `ABDUL SALAM`
 
-<br/>
+### Systems & Software Engineer · Technical Lead · R&D Engineer · Mentor
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p> -->
+`9+ years` · `30+ production services` · `US & Asia` · `Backend-first, language-agnostic`
 
-## 📘 My top open source projects
+</div>
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="table2ascii"></a>
-  <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-  <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-  <a href="https://github.com/DenverCoder1/doxygen-github-pages-action"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=doxygen-github-pages-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="doxygen-github-pages-action"></a>
-  <a href="https://github.com/DenverCoder1/discord-bot-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=discord-bot-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord-bot-template"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="github-readme-youtube-cards"></a>
-  <a href="https://github.com/DenverCoder1/dynamic-badge-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=dynamic-badge-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dynamic-badge-formatter"></a>
-</p>
+```text
+                                   .
+                               :=*#%#*-
+                             =%@@@@@@@@%*+:.
+                           =%#*+=--=+**#%@%%*:
+                         :#%-..     .:--=#@@@%:
+                        .%@-..      .:-==#@@@@=
+                        :@#=***-.:-+###***%@@@+
+                         #+=+#%+.=%%##%%*+#@@%:
+                         -:.::: .=+--=++++#%#=
+                         ... .::=+=. ::-=+%%+.
+                          ::=++**#*=:-==+%#=.
+                          .-===+**#*==*#%*.
+                            :--:-+==+*%%%=
+                            :***#%%%%%%%*:.
+                           -+*===+++++*=.....
+                           +*#+--:----.  ..:.
+                         ::-*-=-..::-:.    :
+                     .  :-.::..::.::::--.        ...   .
+                               ..::.......     ..    .:::
+                   .                          .   ..:..::.
+                   .                         :. .......::-
+            :.   ...                        :-..    .:::--
+         -::----.:*=                       .-..   ....:--.
+        :-==-=+-=#**.                     .. .  ......:--.
+      . :-=-=:-=-+#*+                ...:::   ..  ...::--
+     ..::-====-+++##%-.              ...:+- ..  .. .:::-:
+        ..    .. .:+%=-:........    ..::--.   ... :-:::-.
+                   ..         +#-:-----=:     . .::::::-
+   .               ..        -%====+++**:  .....:::.::-:
+    ..         ....          +----=--==::......:::.::--.
+        ......:::.          .##++==--=..::...:::::.::--
+         .......    .      -*-.+-...  . .:..:......:-=-
+                 .-+++=-:.:-.  ++:...  ..:::::::::--===
+                 ...:-:..... . .++-::----:::-------==++
+                 ......:--....:..:---::---=--::---=+=*=.:.
+                 .....   .......:..::::::::------=+++*-.::
+                 .....  .......::::::::::.:::::-=++**-...:
+                .....     ....:::::::----:::--==+**+:.
+                .....         ..::::::::-------====-:.
+                .....          ...::----:-:::-===---:.
+```
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+<div align="center">
 
-## 📕 Top projects I've contributed to
+> I design systems that survive scale, change, and real production traffic.
 
-<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="onefetch"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextcord"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/abdulsalam-01) ·
+[Email](mailto:abdulsalam121196@gmail.com) ·
+[GitHub](https://github.com/abdulsalam01)
 
-<p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
+</div>
 
-## 🔥 Streak stats
+---
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+## `$ whoami`
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+I am an **expert Systems & Software Engineer** with more than nine years of experience leading full-stack development, backend optimization, cloud infrastructure, and engineering teams across the United States and Asia.
 
-## 📊 Github stats
+My work spans high-throughput microservices, logistics platforms, DeFi APIs, secure smart contracts, AI-enhanced products, offline-first applications, ERP systems, smart-city platforms, education technology, healthcare systems, and IoT-connected solutions.
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="#" src="#" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="#" src="#" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+I care about measurable engineering outcomes: lower latency, reliable deployments, maintainable architecture, secure data flows, clear documentation, and teams that can keep shipping without burning out.
+
+```yaml
+profile:
+  role: Systems & Software Engineer
+  experience: 9+ years
+  production_services: 30+
+  strongest_area: Backend, distributed systems, architecture
+  working_style: Small diffs, measurable impact, production safety
+  regions: United States and Asia
+  languages_spoken:
+    - Indonesian: Native
+    - English: Fluent
+```
+
+---
+
+## `./impact --production`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  30+   production services delivered                        │
+│   5×   platform scaling with zero Sev-1 incidents            │
+│ -40%   P99 latency through query, cache, and trace audits     │
+│ -45ms  P99 API latency across optimized production systems   │
+│ -25%   cloud cost after infrastructure optimization          │
+│ -70%   annual logistics and technology cost in a hub system  │
+│  10M+  card records served through distributed caching       │
+│  99.9% uptime across cloud and microservice deployments      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `skills --all`
+
+### Core programming languages
+
+**Expert**
+
+`Go` · `JavaScript` · `TypeScript` · `Java` · `PHP` · `SQL` · `NoSQL`
+
+**Advanced**
+
+`C` · `C++` · `Rust` · `Python` · `Ruby` · `Kotlin` · `Solidity` · `Dart`
+
+### Backend engineering and APIs
+
+`Node.js` · `Bun` · `HonoJS` · `Laravel` · `CodeIgniter` · `Go services` ·
+`REST API` · `GraphQL` · `RPC/gRPC concepts` · `SSE` · `real-time synchronization` ·
+`microservices` · `distributed systems` · `service decomposition` · `API versioning` ·
+`authentication` · `JWT` · `RBAC` · `file-storage APIs` · `multi-currency payments` ·
+`wallet authentication` · `distributed caching` · `concurrency` · `performance tuning`
+
+### Frontend, web, and mobile
+
+`React` · `Next.js` · `MERN stack` · `HTML` · `CSS` · `responsive design` ·
+`Progressive Web Apps` · `offline-first applications` · `Android with Java` ·
+`Flutter` · `Java Swing` · `mobile APIs` · `geolocation` · `maps integration` ·
+`push notifications` · `admin portals` · `drag-and-drop builders`
+
+### Databases and data engineering
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `AWS DynamoDB` · `Oracle fundamentals` ·
+`Prisma ORM` · `relational modeling` · `document modeling` · `query optimization` ·
+`indexing` · `replication concepts` · `data integrity` · `cache strategy` ·
+`analytics pipelines` · `transaction design` · `high-volume data access`
+
+### Cloud, infrastructure, and DevOps
+
+`AWS` · `Google Cloud Platform` · `Docker` · `Kubernetes` · `Terraform` ·
+`GitHub Actions` · `GitLab CI/CD` · `Nginx` · `Linux` · `containerized deployment` ·
+`zero-downtime delivery` · `load testing` · `autoscaling` · `cloud cost optimization` ·
+`infrastructure review` · `release automation` · `99.9% availability design`
+
+### Architecture, reliability, and quality
+
+`system architecture` · `software design patterns` · `scalability engineering` ·
+`high-availability design` · `observability` · `distributed tracing` · `structured logging` ·
+`metrics analysis` · `P95/P99 optimization` · `profiling` · `code review` ·
+`database auditing` · `cache-ratio analysis` · `automated testing` · `Katalon` ·
+`security review` · `ISO 27001-aligned practices` · `technical documentation`
+
+### Artificial intelligence and intelligent systems
+
+`LLM integration` · `open-source LLM deployment` · `AI-assisted product features` ·
+`AI/ML integration` · `expert systems` · `AI chat optimization` ·
+`LLM-enhanced applications` · `AI workflow design` · `prompt and system design` ·
+`human-in-the-loop product thinking` · `AI ethics and data privacy`
+
+### Blockchain and Web3
+
+`Solidity` · `smart contracts` · `DeFi` · `NFT platforms` · `Layer 2 research` ·
+`Berachain migration` · `gas optimization` · `royalty-enabled contracts` ·
+`on-chain analytics` · `crypto payments` · `secure wallet authentication` ·
+`high-throughput blockchain APIs`
+
+### Engineering leadership
+
+`technical leadership` · `R&D` · `team mentoring` · `Scrum` · `Agile` ·
+`project planning` · `architecture reviews` · `technical writing` ·
+`business-logic documentation` · `stakeholder communication` · `product engineering` ·
+`cross-functional collaboration` · `developer onboarding` · `teaching and curriculum design`
+
+### Domains
+
+`logistics` · `marketplaces` · `fintech` · `DeFi` · `ERP` · `education technology` ·
+`healthcare` · `smart city` · `tourism` · `IoT` · `government systems` ·
+`field-survey platforms` · `shipping` · `e-learning` · `expert systems`
+
+---
+
+## `career.log`
+
+<details open>
+<summary><strong>Current and recent roles</strong></summary>
+
+- **Senior Research & Development — GankNow, Singapore**  
+  Leading a ten-service Go/Node.js microservice stack, Kubernetes scaling, performance audits, and small-diff production delivery.
+
+- **Lead Engineer — Amori, United States**  
+  Leading backend teams, scaling services and databases, reviewing infrastructure, and integrating open-source LLM features.
+
+- **Tech Mentor — Eduwork, Indonesia**  
+  Coaching more than 120 MERN learners in full-stack engineering, GraphQL, Docker, microservices, and RPC.
+
+- **Senior Product Engineer — Pixel8Labs, Singapore**  
+  Building Golang services, GraphQL APIs, Solidity contracts, crypto payments, wallet authentication, NFTs, and DeFi infrastructure.
+
 </details>
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details>
+<summary><strong>Previous engineering roles</strong></summary>
+
+- **Software Engineer — Tokopedia, Indonesia**  
+  Buyer-selection services, courier routing, proximity logic, and a Hub Management System that reduced logistics and technology costs.
+
+- **Supervisor & Engineer — Kampus Mengajar, Indonesia**  
+  Led a four-developer team and built secure APIs supporting national education programs.
+
+- **Senior Backend Engineer — Krip Limited, Hong Kong**  
+  Re-engineered Node.js systems and built distributed AWS DynamoDB caching for more than ten million card records.
+
+- **Backend & Cloud Engineer — Lussa Teknologi, Indonesia**  
+  Delivered Go microservices, AWS/GCP integrations, Terraform infrastructure, and sub-100 ms P95 APIs.
+
+- **Full-stack Developer — Clodeo Indonesia Jaya**  
+  Built a shipping platform integrating six Indonesian couriers and processing more than ten thousand shipments per day.
+
+- **Web Developer — Smart City & Innovation Center ITB**  
+  Delivered a responsive smart-city tourism platform with maps, geolocation, secure authentication, and real-time travel data.
+
+</details>
+
+---
+
+## `projects --selected`
+
+<details>
+<summary><strong>Platforms, enterprise systems, mobile apps, and experiments</strong></summary>
+
+- LLM-enhanced offline-first mobile and web platform for real-time field-survey synchronization.
+- LAKPESDAM offline data-capture application and synchronization API.
+- PDAM ERP for inventory, billing, reporting, and analytics.
+- Smart City project-management suite for more than ten initiatives.
+- Flutter e-learning application with quizzes, content management, and push notifications.
+- GPS attendance application with parent email alerts and web dashboard.
+- Siloam hospital questionnaire platform with automated OSSA expert-system scoring.
+- Grab-style logistics platform for large-item transport and driver dispatch.
+- Desktop showroom system for inventory, sales, and customer workflows.
+- Greenfoot role-playing game with quest and combat mechanics.
+- No-code drag-and-drop website builder with reusable templates.
+- Inter-school competitive quiz platform.
+- Android bridge-inspection application and government REST API.
+- Mobile road-condition reporting platform for repair prioritization.
+
+</details>
+
+---
+
+## `education && recognition`
+
+```text
+B.Sc. in Information Systems — STMIK LIKMI
+Valedictorian · GPA 3.96 / 4.00
+
+Diploma in Software Engineering — SMK Negeri 4 Bandung
+Top graduate of the entire school
+```
+
+**Certificates and recognition**
+
+- HackerRank Problem Solving Certificate
+- SoloLearn SQL Fundamentals
+- Google Developers Mobile Web Specialist
+- SoloLearn JavaScript Course
+- Google Indonesia Android Kejar Mentor
+- STMIK LIKMI Best Student Award
+- Vocational High School Top Graduate
+- Oracle Academy Final Examination
+- Third Place, Dynamic Programming Contest — Widyatama University
+
+---
+
+## `engineering_principles.md`
+
+```text
+01. Measure before optimizing.
+02. Prefer small, reversible production changes.
+03. Reliability is a feature, not an afterthought.
+04. Architecture must make the next change easier.
+05. Documentation is part of the system.
+06. Security begins before the first deployment.
+07. Mentor people, not only codebases.
+08. Use the right language for the problem.
+09. Automate repetition; keep judgment human.
+10. Ship, observe, learn, and improve.
+```
+
+---
+
+## `currently`
+
+- Building and optimizing AI-enhanced distributed applications.
+- Designing scalable Go, Node.js, and PostgreSQL systems.
+- Exploring Rust for safe, high-performance infrastructure.
+- Integrating LLMs without compromising privacy or reliability.
+- Mentoring engineers to reason about systems, not merely frameworks.
+
+---
+
+<div align="center">
+
+### `while (alive) { design(); build(); optimize(); mentor(); ship(); }`
+
+**Open to complex engineering problems, architecture discussions, mentoring, and meaningful product collaboration.**
+
+</div>
