@@ -187,8 +187,8 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulsalam01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalam01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=abdulsalam01&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulsalam01&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
