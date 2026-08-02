@@ -196,7 +196,7 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulsalam01&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abdulsalam01&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="Trophies" />
 </div>
 
 ---
