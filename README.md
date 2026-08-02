@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,25:1d4ed8,50:06b6d4,75:0ea5e9,100:38bdf8&text=Abdul%20Salam&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Systems%20%26%20Software%20Engineer%20%7C%20Lead%20Engineer%20%7C%20Mentor&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,25:1d4ed8,50:06b6d4,75:0ea5e9,100:38bdf8&amp;text=Abdul%20Salam&amp;fontColor=ffffff&amp;fontSize=46&amp;fontAlignY=38&amp;desc=Systems%20%26%20Software%20Engineer%20%7C%20Lead%20Engineer%20%7C%20Mentor&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="header" />
 
 # 👋 Hello, I'm **Abdul Salam**
 
