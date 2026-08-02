@@ -115,7 +115,7 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 
 ```text
 ╔════════════════════════════════════════════════════════════════╗
-║                  ABDUL_SALAM::PORTRAIT.EXE                    ║
+║                  ABDUL_SALAM::PORTRAIT.EXE                     ║
 ╠════════════════════════════════════════════════════════════════╣
 ║                                       .                        ║
 ║                                  ,;1*8%*+,                     ║
@@ -160,7 +160,7 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 ║                  ,....       ....,:::;;;;;;;;!!;!!1++11!;,.    ║
 ║                  ,,...      ......,,:;;;!!!;;;;;;1++1!11!,.    ║
 ╠════════════════════════════════════════════════════════════════╣
-║         9+ YEARS  ::  30+ SERVICES  ::  5× SCALE             ║
+║         9+ YEARS  ::  30+ SERVICES  ::  5× SCALE               ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -178,7 +178,7 @@ My sweet spot is turning complex product ideas into reliable systems that are:
 ║ -70%   annual logistics + tech cost reduction via Hub Management System ║
 ║  10M+  card records served through distributed caching                  ║
 ║  99.9% uptime maintained across cloud and microservice deployments      ║
-║  120+  learners coached; 82% landed junior full-stack roles            ║
+║  120+  learners coached; 82% landed junior full-stack roles             ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
